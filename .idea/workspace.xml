@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04250f31-65c4-42a6-a384-5304bedcb9d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/profile-site.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/briefcase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/check-list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chillies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/coding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/computer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/espresso.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/layers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profile-picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/programming-code-signs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/software-development.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/worker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="04250f31-65c4-42a6-a384-5304bedcb9d6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +30,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\dmatabil\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -81,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651017567925</updated>
-      <workItem from="1651017570098" duration="25239000" />
+      <workItem from="1651017570098" duration="25959000" />
     </task>
     <servers />
   </component>
